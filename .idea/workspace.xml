@@ -1,20 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b42a064a-9c22-46ff-a998-6dc2967ba8e2" name="Default Changelist" comment="" />
+    <list default="true" id="b42a064a-9c22-46ff-a998-6dc2967ba8e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/recipe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/background2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pie_bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pie_icon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/silverware.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pie.html" beforeDir="false" afterPath="$PROJECT_DIR$/pie.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dlibHXEpyP6QOe1wVlm3ZK4uLE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\demek\Downloads\files\W1D2Recipe\images" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
